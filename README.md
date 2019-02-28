@@ -2,7 +2,11 @@
 # Weather_bot
 
 =======
-## Welcome to GitHub Pages
+## Welcome to Weather Condition Description:
+
+This page is made by Anusuya Roy.
+
+Thank you for visiting this website.
 
 You can use the [editor on GitHub](https://github.com/anusuyaroy/Weather_bot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
