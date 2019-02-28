@@ -1,0 +1,17 @@
+============
+**Variable**
+============
+
+Python Code
+-----------
+
+.. code-block:: python
+
+   my_variable = "the weather in {} is {} with a temperature of {} degrees".format(city_name,weather_type,temp)
+
+
+
+
+
+
+

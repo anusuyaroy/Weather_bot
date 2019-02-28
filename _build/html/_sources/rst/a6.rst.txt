@@ -1,0 +1,23 @@
+Audio_Saver
+===========
+
+.. code-block:: python
+ 
+   def tts_audio_saver(my_variable):
+	tts = gTTS(my_variable, 'en')
+	tts.save("MusicFile.mp3")
+	return playsound('MusicFile.mp3')
+
+
+tts_audio_saver(my_variable)
+
+
+
+
+
+
+
+
+
+
+
